@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krrish Lala</h1>
-<h3 align="center">A developer who works primarily in python</h3>
+<h3 align="center">A rookie developer who works primarily in python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrish103&label=Profile%20views&color=0e75b6&style=flat" alt="krrish103" /> </p>
 
