@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.krrishlala.me](portfolio.krrishlala.me)
 
-- 📝 I regularly write articles on [fhf](fhf)
 
-- 📫 How to reach me **krrishlala30@gmail.com**
 
-- ⚡ Fun fact **Bleh**
+- 📫 How to reach me **krrishkiranlala2007@gmail.com**
+
+- ⚡ Fun fact **I love space,technology,robotics and aerodynamics. I have experience developing robots to perform simple tasks using Arduino and mblock technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/krrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krrish" height="30" width="40" /></a>
+<a href="https://instagram.com/krrishlala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krrish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
